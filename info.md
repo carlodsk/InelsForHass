@@ -8,12 +8,30 @@ This is **only** intended for development!
 
 First upgrade to version [0.16.3](https://github.com/hacs/integration/releases/tag/0.16.3), then upgrade to the latest version.
 {% endif %}
-## Useful links
 
-- [General documentation](https://hacs.xyz/)
-- [Configuration](https://hacs.xyz/docs/configuration/start)
-- [FAQ](https://hacs.xyz/docs/faq/what)
-- [GitHub](https://github.com/hacs)
-- [Discord](https://discord.gg/apgchf8)
-- [Become a GitHub sponsor? ❤️](https://github.com/sponsors/ludeeus)
-- [BuyMe~~Coffee~~Beer? 🍺🙈](https://buymeacoffee.com/ludeeus)
+## InelsForHass is a Home Assistant HACS itegration for Elko inels smart home
+
+_Integrates all common devices from Inels BUS system into the Home Assistant._
+
+### What?
+
+InelsForHass gives you a chance to control your proprietary Inels devieces through the Home Assistant.
+
+### Supported devices
+
+- Common and dimmer lights
+- Switches
+- Shades
+- Garage doors
+- Heating
+- Weather stations
+- Lara radio
+- Ventilation system
+
+### Issues
+
+~~If~~ When you experience issues/bugs with this the best way to report them is to open an issue in **this** repo.
+
+[Issue link](https://github.com/JH-Soft-Technology/InelsForHass/issues/)
+
+[![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jhoralek)
