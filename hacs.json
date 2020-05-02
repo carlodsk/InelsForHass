@@ -1,7 +1,11 @@
 {
-    "name": "HACS (Home Assistant Community Store)",
-    "zip_release": true,
-    "hide_default_branch": true,
-    "hacs": "0.19.0",
-    "filename": "hacs.zip"
+    "name": "InelsForHass",
+    "hacs": "0.24.3",
+    "domains": [
+        "binary_sensor",
+        "sensor",
+        "switch"
+    ],
+    "iot_class": "Cloud Polling",
+    "homeassistant": "0.108.0"
 }
