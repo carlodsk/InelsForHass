@@ -5,6 +5,7 @@ settings.json
 .devcontainer/configuration.yaml
 node_modules
 custom_components/custom_components
+custom_components/hacs
 manage/secrets.json
 # dependencies
 /node_modules
