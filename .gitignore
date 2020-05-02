@@ -12,3 +12,4 @@ manage/secrets.json
 coverage.xml
 .vscode
 .github
+.devcontainer/configuration.yaml
