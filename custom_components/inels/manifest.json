@@ -1,0 +1,13 @@
+{
+    "domain": "InelsForHass",
+    "name": "InelsForHass",
+    "documentation": "https://github.com/JH-Soft-Technology/InelsForHass",
+    "dependencies": [],
+    "config_flow": true,
+    "codeowners": [
+        "@jhoralek"
+    ],
+    "requirements": [
+        "sampleclient"
+    ]
+}
